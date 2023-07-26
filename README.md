@@ -1,3 +1,3 @@
 # T20-Cricket-World-Cup-Analysis
 Objective:
-Create a team of top 11 cricket players from T20 world cup 2022.
+identify the top 11 players for a T20 cricket team.
